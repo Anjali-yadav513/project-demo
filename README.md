@@ -1,4 +1,4 @@
 # project-demo
 This is My First Git Repository.
 <br>
-Author - Anjali (Apna Collegeg)
+Author - Anjali (Apna College)
